@@ -1,5 +1,6 @@
-<p align="center">Income Expense Manager with Laravel</p>
-
+<p align="center">
+<h1>Income Expense Manager with Laravel</h1>
+</p>
 
 ## About Income Expense Manager
 
@@ -59,18 +60,17 @@ For Login:
 
 **password: password**
 
-## For Contribute
+## About This Project
 
+This project is forked from [nayeemdev/incomeExpense](https://github.com/nayeemdev/incomeExpense). I did this project in order to learn the Laravel Framework. It's a simple application that I use to track my own income and expense.
+
+## For Contribute
 
 - Fork the repo.
 - clone it locally.
 - change what you want to contribute.
 - send pull/merge request
 
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within this spftware, please send an e-mail to Nayeem via [nayeem9812@gmail.com](mailto:nayeem9812@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
