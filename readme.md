@@ -1,6 +1,6 @@
-<p align="center">
 <h1>Income Expense Manager with Laravel</h1>
-</p>
+
+This project is forked from [nayeemdev/incomeExpense](https://github.com/nayeemdev/incomeExpense). I did this project in order to learn the _Laravel Framework_. It's a simple application that I use to track my own income and expense.
 
 ## About Income Expense Manager
 
@@ -59,10 +59,6 @@ For Login:
 **email: user@example.com**
 
 **password: password**
-
-## About This Project
-
-This project is forked from [nayeemdev/incomeExpense](https://github.com/nayeemdev/incomeExpense). I did this project in order to learn the Laravel Framework. It's a simple application that I use to track my own income and expense.
 
 ## For Contribute
 
